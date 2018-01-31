@@ -22,7 +22,6 @@ function divide (a, b) {
   return total
 }
 
-
-
-
-
+function   inc (a) {
+  return a++
+}
