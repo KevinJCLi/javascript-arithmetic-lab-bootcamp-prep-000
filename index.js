@@ -22,7 +22,16 @@ function divide (a, b) {
   return total
 }
 
-function   inc (a) {
-  a ++
+function inc (a) {
+  a++
   return a
+}
+
+function dec (a) {
+  a-- 
+  return a 
+}
+
+function makeInt (n) {
+  
 }
